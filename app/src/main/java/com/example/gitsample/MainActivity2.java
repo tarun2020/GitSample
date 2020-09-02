@@ -16,5 +16,7 @@ public class MainActivity2 extends AppCompatActivity {
         Log.i("Check","GitSampleBranch");
 
         Plant plant=new Plant("tomato","red");
+
+        Log.i("plant","plant.toString");
     }
 }

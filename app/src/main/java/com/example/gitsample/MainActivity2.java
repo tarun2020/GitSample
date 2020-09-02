@@ -18,5 +18,8 @@ public class MainActivity2 extends AppCompatActivity {
         Plant plant=new Plant("tomato","red");
 
         Log.i("plant","plant.toString");
+
+        Log.i("plant","plant.toStringTwo");
+
     }
 }

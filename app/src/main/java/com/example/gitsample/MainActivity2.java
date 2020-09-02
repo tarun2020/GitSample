@@ -21,5 +21,7 @@ public class MainActivity2 extends AppCompatActivity {
 
         Log.i("plant","plant.toStringTwo");
 
+        Log.i("plant","plant.toStringTag");
+
     }
 }
